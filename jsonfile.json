@@ -1,0 +1,92 @@
+[
+  {
+    "pplAmount": 3
+  },
+  {
+    "id": "841696864343425065",
+    "cash": 750,
+    "testCoins": 0,
+    "Inventory": [
+      {
+        "Slot1": 0,
+        "Amount1": 0,
+        "Slot2": 0,
+        "Amount2": 0,
+        "Slot3": 0,
+        "Amount3": 0,
+        "Slot4": 0,
+        "Amount4": 0,
+        "Slot5": 0,
+        "Amount5": 0,
+        "Slot6": 0,
+        "Amount6": 0,
+        "Slot7": 0,
+        "Amount7": 0,
+        "Slot8": 0,
+        "Amount8": 0,
+        "Slot9": 0,
+        "Amount9": 0,
+        "Slot10": 0,
+        "Amount10": 0
+      }
+    ]
+  },
+  {
+    "id": "702210941831348284",
+    "cash": 800,
+    "testCoins": 0,
+    "Inventory": [
+      {
+        "Slot1": 0,
+        "Amount1": 0,
+        "Slot2": 0,
+        "Amount2": 0,
+        "Slot3": 0,
+        "Amount3": 0,
+        "Slot4": 0,
+        "Amount4": 0,
+        "Slot5": 0,
+        "Amount5": 0,
+        "Slot6": 0,
+        "Amount6": 0,
+        "Slot7": 0,
+        "Amount7": 0,
+        "Slot8": 0,
+        "Amount8": 0,
+        "Slot9": 0,
+        "Amount9": 0,
+        "Slot10": 0,
+        "Amount10": 0
+      }
+    ]
+  },
+  {
+    "id": "759325228094062603",
+    "cash": 750,
+    "simps": 0,
+    "Inventory": [
+      {
+        "Slot1": 0,
+        "Amount1": 0,
+        "Slot2": 0,
+        "Amount2": 0,
+        "Slot3": 0,
+        "Amount3": 0,
+        "Slot4": 0,
+        "Amount4": 0,
+        "Slot5": 0,
+        "Amount5": 0,
+        "Slot6": 0,
+        "Amount6": 0,
+        "Slot7": 0,
+        "Amount7": 0,
+        "Slot8": 0,
+        "Amount8": 0,
+        "Slot9": 0,
+        "Amount9": 0,
+        "Slot10": 0,
+        "Amount10": 0
+      }
+    ]
+  }
+]
